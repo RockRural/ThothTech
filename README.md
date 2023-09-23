@@ -1,16 +1,86 @@
-# ThothTech API 1º ADS
+<span id="topo">
+<h1 align="center"> Thoth Tech - Scrum API  </h1>
+
+<p align="center">
+    <a href="O que é?"> O que é?</a> | 
+    <a href="Solução proposta">Solução proposta</a> | 
+    <a href="Planejamento das sprints">Planejamento das sprints</a> |
+    <a href="Relatório das sprints">Relatório das sprints</a> | 
+    <a href="BACKLOGS">Relatório das sprints</a> | 
+    <a href="Tecnologias utilizadas">Tecnologias utilizadas</a> | 
+    <a href="Time">Time</a> | 
+  
+</p>
+<span id="backlogs">
+
+## :dart: Backlogs
+
+### Backlog do Produto
+
+| Sprint | Tarefa |  US   | Item |  Estimativa de tempo   | Status   | Prioridade | 
+| :----: | :----: | :----: | :----: | :----: | :----: | :----: |
+|    |  | EU, enquanto cliente, quero um protótipo navegável para ter uma visão geral do Website                                                  | Wireframe | 10h | :white_check_mark:| 70 |
+| 1 | 1 | EU, enquanto cliente, quero visualisar os eventos, os papéis, os artefatos, apêndices e a bibliografia em páginas distintas             | Wireframe | 6h | :white_check_mark: | 40 |
+| 1 | 2 | EU, enquanto cliente, quero que haja perguntas com contextos práticos do cotidiano em cada página                                       | Wireframe | 5h | :white_check_mark: | 75 |
+| 1 | 3 | EU, enquanto cliente, quero avaliar minha equipe Scrum através do web site                                                              | Wireframe | 4h | :white_check_mark: | 65 |
+| 1 | 4 | EU, enquanto cliente, quero o backlog do produto para ter uma visão geral do prouduto presente no GitHub                                | Backlog   | 3h | :white_check_mark: | 50 |
+| 1 | 5 | Eu, enquanto cliente, quero as páginas  7 páginas web, sendo elas Home, Artefatos, Eventos, Papéis, Bibliografia, apêndice e avaliação. | Website | 20h | :no_entry:          |100 |
+| 1 | 6 | Eu, enquanto cliente, quero facilitar a navegação com um menu funcional que direciona para as demais páginas                            | Website | 3h | :no_entry:           |85 |
+| 1 | 7 | Eu, enquanto cliente, quero que todo o conteúdo das páginas contenha conceitos teóricos e práticos                                      | Website | 2h | :no_entry:           |90 |
+| 1 | 8 | Eu, enquanto cliente, quero que todo o conteúdo das páginas contenha perguntas para aplicar o contéudo                                  | Website | 2h |:no_entry:            |55| 
+| 1 | 9 | Eu, enquanto cliente, quero a explicação do método de avaliação que será usado (PACER)                                                  | Website | 2h |:no_entry:            | 60 |
+| 1 |10 | Eu, enquanto cliente , quero avaliar a equipe com os seguintes requisitos: proatividade, autonomia, colaboração e entrega de resultados.| Website | 1h |:no_entry:            | 95 |
+| 1 |11 | Eu, enquanto cliente , quero visualizar as notas individuais e gerais da equipe  no site da avaliação                                   | Website | 5h |:no_entry:            |80 |
+| 1 |12 | Eu, enquanto cliente, quero que este site esteja hospedado na internet, para acessá-lo de qualquer lugar                                | Website | 5h |:no_entry:            |85 |
+| 1 |13 | Eu, enquanto cliente , quero que as perguntas sejam feitas de maneira dinâmica e contenham justificativas                               | Website | 5h |:no_entry:            | 40 |
+| 1 |14 | Eu, enquanto cliente, quero que a página contenha uma identidade visual                                                                 | Website | 8h |:no_entry:            | 35 |
+| 1 |15 | Eu, enquanto cliente, quero que a navegação e usabilidade seja simples e intuitiva|                                                       Website | 8h |:no_entry:            | 30 |
 
 
 
-Índice
+Tcnologias usadas na construção do projeto:
 
-- [O que é](#o-que-é)
-- [Solução de proposta](#solução-de-proposta)
-- [Planejamento das sprints](#planejamento-das-sprints)
-- [Tecnologias utilizadas](#tecnologias-utilizadas)
-- [Time](#time)
-- [Relatório das sprints](#relatório-das-sprints)
+* <p>
+      <img align="left" title="css3-logo" height="30px" src="https://user-images.githubusercontent.com/76211125/227503103-bb7005d7-5f2f-46e4-adb5-92ef19ce677d.png"/>
+   CSS3 
+ </p>
+ 
+ * <p>
+       <img align="left" title="figma-logo" height="30px" src="https://user-images.githubusercontent.com/76211125/227502784-c94d5e2d-2e39-449b-ba85-053b9106b979.png"/>  Figma 
+ </p>
 
-Objetivo do Projeto
+ * <p>
+      <img align="left" title="github-dark" height="30px" src="https://user-images.githubusercontent.com/76211125/227561942-1503fb74-eb8e-41d1-936e-bf22bc2d70eb.png#gh-dark-mode-only"/>
+      <img align="left" title="github-light" height="30px" src="https://user-images.githubusercontent.com/76211125/227561896-a90cea71-7431-4908-ac8d-71fc02603eeb.png#gh-light-mode-only"/>
+     GitHub 
+ </p>
 
- Desenvolver um site que indique todos processos e artefatos necessários pada utilizar a metodologia ágil,tendo conceitos e fundamentos com referências e exemplos.
+* <p>
+      <img align="left" title="html5-logo" height="30px" src="https://user-images.githubusercontent.com/76211125/227503111-49bb0b02-2f06-4696-82e6-fbd8d0daed21.png"/>
+     HTML5 
+ </p>
+ 
+* <p>
+      <img align="left" title="python" height="30px" src="https://user-images.githubusercontent.com/76211125/227505058-d6d60925-3738-478f-8b23-3eb586431a1a.png"/>
+   Python 
+ </p>
+
+
+## TIME
+
+|      Nome      |    Função       |                            Github                             |                           Linkedin                           |
+| :--------------: | :-----------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|      | Scrum Master  | <a href="GUIT"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="hLINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+|      | Product Owner | <a href="GUIT"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="LINKE"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+| | Desenvolvedor | <a href="GUIT"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="hLINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+|  | Desenvolvedor | <a href="GUIT"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="hLINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+| | Desenvolvedor | <a href="GUIT"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="hLINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+
+    
+
+
+
+
+
+
+
